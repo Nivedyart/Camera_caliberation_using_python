@@ -5,8 +5,8 @@ The process of estimating the parameters of a camera is called camera calibratio
 
  Here is a python script to automatically find the camera calibration parameters using a 6x8 checkerboard pattern.
 
- Data : Images captured in my mobile phone.
- Output: Caliberation parameters are obtained with the help of camera matrix and distortion matrix.
+ - Data : Images captured in my mobile phone.
+ - Output: Caliberation parameters are obtained with the help of camera matrix and distortion matrix.
  
 - Camera matrix:
 
