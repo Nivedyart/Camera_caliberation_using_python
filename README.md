@@ -8,7 +8,7 @@ The process of estimating the parameters of a camera is called camera calibratio
  Data : Images captured in my mobile phone.
  Output: Caliberation parameters are obtained with the help of camera matrix and distortion matrix.
  
- - Camera matrix:
+- Camera matrix:
 
   - Focal lengths (fx, fy): 3851.17150, 3914.32526
   - Optical center (cx, cy): 2064.16708, 891.491145
